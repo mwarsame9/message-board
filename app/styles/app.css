@@ -3,6 +3,7 @@ body {
   padding-right: 10%;
   padding-bottom: 10%;
   font-family: 'Amiko', sans-serif;
+  background-color: #d9ffcc;
 }
 
 .website-title {
@@ -14,7 +15,7 @@ li {
   list-style-type: none;
 }
 
-.bg-img {
+/*.bg-img {
   background-image: url(/img/background4.jpg);
   background-position: center;
   background-size: cover;
@@ -25,4 +26,4 @@ li {
   height: 100%;
   width: 100%;
   z-index: -1;
-}
+}*/
