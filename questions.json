@@ -5,11 +5,44 @@
   }, {
     "inquiry": "Can someone tell me the best way to get to Upper Eastside?",
     "author": "Abraham Lincoln",
-    "notes": "Just asking for a friend"
+    "notes": "I'm not the real Abe"
   }, {
     "inquiry": "How would you describe the art scene in Portland?",
     "author": "Curious George",
     "notes": "What do I put here?"
+  }, {
+    "inquiry": "Anyone need a roommate?",
+    "author": "John W",
+    "notes": "I'm new here"
+  }, {
+    "inquiry": "How often does it rain?",
+    "author": "Ray",
+    "notes": "Just asking for a friend"
+  }, {
+  }, {
+    "inquiry": "Anyone wanna hike this weekend?",
+    "author": "Brandon",
+    "notes": "Love the outdoors"
+  }, {
+    "inquiry": "What's the best way to get to PSU?",
+    "author": "Ray the freshman",
+    "notes": "Just asking for a friend"
+  }, {
+    "inquiry": "Anyone wanna watch Timbers this weekend?",
+    "author": "Phil",
+    "notes": "Love the Timbers"
+  }, {
+    "inquiry": "What's the best way to get to Pioneer Square?",
+    "author": "Jonas",
+    "notes": "Meeting a friend there"
+  }, {
+    "inquiry": "Anybody wanna tell me about cool hangout spots?",
+    "author": "Mike",
+    "notes": "I don't know anyone here"
+  }, {
+    "inquiry": "Anybody here not from Portland?",
+    "author": "Carl",
+    "notes": "Cause I'm not?"
   }],
   "answers": [{
     "content": "Downtown is pretty awesome.",
