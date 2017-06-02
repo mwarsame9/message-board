@@ -1,5 +1,5 @@
 <br>
-<p><em>{{question.inquiry}}</em><br>
+<p><em>{{question.inquiry}}</em><br></p>
 
 <br>
 <h5>By: {{question.author}}</h5>
@@ -9,8 +9,8 @@
 
 <h2> Answers </h2>
 <ul>
-  {{#each question.anwers as |anwer|}}
-  {{anwer-tile anwer=anwer destroyAnswer="destroyAnswer"}}
+  {{#each question.answers as |answer|}}
+  {{answer-tile answer=answer destroyAnswer="destroyAnswer"}}
   {{/each}}
 </ul>
 

@@ -1,10 +1,5 @@
 <li>
-  <h2><em>{{question.inquiry}}</em></h2>
-
-  <br>
-  {{#link-to 'question' question.id}}<h5>{{question.author}}</h5>{{/link-to}}<br>
-  <p>
-    <em>{{question.notes}}</em>
-  </p>
+  {{#link-to 'question' question.id}}<h3><em>{{question.inquiry}}</em></h3>{{/link-to}}
+  <h5><em>{{question.author}}</em></h5>
   <br>
 </li>
