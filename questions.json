@@ -1,0 +1,14 @@
+{ "questions": [{
+    "inquiry": "What is the best neighborhood to live in?",
+    "author": "Mohamed Warsame",
+    "notes": "I am thinking about moving to the city"
+  }, {
+    "inquiry": "Can someone tell me the best way to get to Upper Eastside?",
+    "author": "Abraham Lincoln",
+    "notes": "Just asking for a friend"
+  }, {
+    "inquiry": "How would you describe the art scene in Portland?",
+    "author": "Curious George",
+    "notes": "What do I put here?"
+  }]
+}
