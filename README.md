@@ -1,7 +1,6 @@
 # message-board
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is a message board that allows users to submit a question, then other users can respond with answers. Users are to click a question and be routed to another page containing additional information and question details. The application has two pages: a homepage that has a list of all questions and individual pages that contain each unique question with its answer. 
 
 ## Prerequisites
 
