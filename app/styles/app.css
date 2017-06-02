@@ -3,20 +3,28 @@ body {
   padding-right: 10%;
   padding-bottom: 10%;
   font-family: 'Amiko', sans-serif;
-  background-color: #d9ffcc;
+  background-color: white;
+  color: black;
+
 }
 
 .website-title {
   text-align: center;
   font-family: 'Aclonica', sans-serif;
 }
+a {
+  color: inherit;
+}
 
+.nav {
+  color: white;
+}
 li {
   list-style-type: none;
 }
 
-/*.bg-img {
-  background-image: url(/img/background4.jpg);
+.bg-img {
+  background-image: url(/img/background5.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -26,4 +34,4 @@ li {
   height: 100%;
   width: 100%;
   z-index: -1;
-}*/
+}

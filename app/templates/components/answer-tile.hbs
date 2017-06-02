@@ -1,6 +1,5 @@
-<h4>{{answer.content}}</h4>
+<h4><em>{{answer.content}}</em></h4>
 
 <p><em>Posted by:</em> {{answer.author}}</p>
-<br>
 
-<button {{action 'delete' answer}}>Delete Answer</button>
+<button class="btn btn-danger" {{action 'delete' answer}}>Delete Answer</button>
