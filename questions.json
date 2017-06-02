@@ -10,5 +10,12 @@
     "inquiry": "How would you describe the art scene in Portland?",
     "author": "Curious George",
     "notes": "What do I put here?"
+  }],
+  "answers": [{
+    "content": "Downtown is pretty awesome.",
+    "author": "Andrea"
+  }, {
+    "content": "Move out here, you would love it",
+    "author": "Alex"
   }]
 }
