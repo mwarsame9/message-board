@@ -1,17 +1,14 @@
 <br>
-<p><em>{{question.inquiry}}</em><br></p>
-
-<br>
-<h5>By: {{question.author}}</h5>
-<p>{{question.notes}}</p> <br>
+<h5><em>Posted by:</em> {{question.author}}</h5>
+<p><em>Additional Notes:</em> {{question.notes}}</p> <br>
 <br>
 
 
-<h2> Answers </h2>
+<h2>Responses</h2>
 <ul>
   {{#each question.answers as |answer|}}
   {{answer-tile answer=answer destroyAnswer="destroyAnswer"}}
   {{/each}}
 </ul>
-
+<br><br>
 <button  class="btn btn-danger"{{action 'delete' question}}>Delete Question</button>
