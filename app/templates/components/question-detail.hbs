@@ -1,0 +1,17 @@
+<br>
+<p><em>{{question.inquiry}}</em><br>
+
+<br>
+<h5>By: {{question.author}}</h5>
+<p>{{question.notes}}</p> <br>
+<br>
+
+
+<h2> Answers </h2>
+<ul>
+  {{#each question.anwers as |anwer|}}
+  {{anwer-tile anwer=anwer destroyAnswer="destroyAnswer"}}
+  {{/each}}
+</ul>
+
+<button  class="btn btn-danger"{{action 'delete' question}}>Delete Question</button>
